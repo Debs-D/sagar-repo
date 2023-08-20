@@ -95,7 +95,7 @@ background: var(--gray-200, #E5E7EB);
 
 .abouting{
     display: flex;
-    justify-content: space-around;
+    /* justify-content: space-around; */
     align-items: center;
     margin-top: 50px;
 }
